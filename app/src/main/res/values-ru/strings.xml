@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="text_default">Ваш текст</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_rotationAngle_label">Угол поворота</string>
+    <string name="settings_alignCenter_label">Выравнивание по центру</string>
+    <string name="settings_cancelButton_label">Отменить</string>
+    <string name="settings_acceptButton_label">Принять</string>
+    <string name="settings_save_errorMessage">Ошибка при сохранении! Возможно, ваш текст слишком длинный?</string>
+</resources>

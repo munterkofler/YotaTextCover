@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backscreen-widget-provider
+    xmlns:sdk="http://schemas.android.com/apk/com.yotadevices.sdk"
+    sdk:invertable="full_screen"
+    sdk:size="full_screen" />

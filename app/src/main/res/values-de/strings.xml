@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_default">Dein Text</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_acceptButton_label">Akzeptieren</string>
+    <string name="settings_alignCenter_label">Zentrieren</string>
+    <string name="settings_cancelButton_label">Abbrechen</string>
+    <string name="settings_rotationAngle_label">Rotation um</string>
+    <string name="settings_save_errorMessage">Fehler beim Speichern! Vielleicht ist der Text zu lang?</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">YotaTextCover</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="text_default">Your text</string>
+    <string name="settings_rotationAngle_label">Rotation angle</string>
+    <string name="settings_alignCenter_label">Align center</string>
+    <string name="settings_cancelButton_label">Cancel</string>
+    <string name="settings_acceptButton_label">Accept</string>
+
+    <string name="settings_save_errorMessage">Error while saving! Maybe your text is too long?</string>
+
+    <string-array name="settings_rotationAngles" translatable="false">
+        <item>0°</item>
+        <item>45°</item>
+        <item>90°</item>
+        <item>135°</item>
+        <item>180°</item>
+        <item>225°</item>
+        <item>270°</item>
+        <item>315°</item>
+    </string-array>
+
+    <string name="text_maxLines" translatable="false">10</string>
+</resources>

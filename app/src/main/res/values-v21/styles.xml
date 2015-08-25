@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/white</item>
+        <item name="android:colorAccent">@color/orange</item>
+        <item name="android:textColorPrimary">@color/dark_gray</item>
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="ButtonBorderless" parent="android:Widget.Material.Button.Borderless">
+
+    </style>
+</resources>
